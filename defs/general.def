@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = httpclientlib
+
+# Module version number
+MODULEVERSION      = 1.1-1
+
+# Module release date
+MODULEDATE         = 2003/03/26
+
+# Module long description
+MODULEDESCRIPTION  = A HTTP client library.
+
+# Module dependencies
+MODULEDEPENDENCIES =
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = GuinuX
+
+MODULE_AUTHOR_EMAIL  = guinux@cosmoplazza.com
+
+MODULE_AUTHOR_SITE   =
+
+MODULE_SUPPORT_EMAIL = support@ampoliros.com
+
+MODULE_BUGS_EMAIL    = bugs@ampoliros.com
+
+MODULE_COPYRIGHT     =
+
+MODULE_LICENSE       = GPL
+
+MODULE_LICENSE_FILE  = LICENSE
+
+MODULE_MAINTAINER    = Alex Pagnoni - Solarix - Ampoliros Team
+
+MODULE_MAINTAINER_EMAIL = alex@ampoliros.com
+
+MODULE_CATEGORY      = libraries

@@ -1,0 +1,8 @@
+<?xml version='1.0'?>
+<structure>
+
+    <library
+        name="httpclient"
+        file="httpclient.library"/>
+
+</structure>

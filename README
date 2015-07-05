@@ -1,0 +1,74 @@
+
+
+                         Advanced HTTP Client
+                         ====================
+
+
+General information
+-------------------
+
+A http client class which Supports :
+ * HTTP Proxy without proxy Authentication (Authentication is in todo list) 
+ * multipart/form-data AND application/x-www-form-urlencoded 
+ * GET, HEAD and POST methods 
+ * Http cookies 
+ * Chunked Transfer-Encoding 
+ * HTTP 1.0 and 1.1 protocols 
+ * Keep-Alive Connections 
+ * Basic Auth (thanx to Mate Jovic) 
+
+
+
+License
+-------
+
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+    A working Ampoliros platform installation.
+
+Clientside:
+    a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Advanced HTTP Client official home page:
+    http://www.phpclasses.org/browse.html/package/576.html
+
+Advanced HTTP Client latest distribution:
+    http://www.phpclasses.org/browse.html/package/576.html
+
+Advanced HTTP Client for Ampoliros latest distribution:
+    http://www.ampcentral.com/
+
+Ampoliros official home page:
+    http://www.ampoliros.com
+
+To submit a bug report:
+    send an email to bugs@ampoliros.com
+
+To submit a support request:
+    send an email to support@ampoliros.com
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.
